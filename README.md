@@ -10,15 +10,15 @@ This repository contains the data for Elmore, Lewis, Himmelberger, & Sherwood (i
 
 ### J. Dean Elmore
 
-J. Dean Elmore is an Assistant Professor in the Department of Psychological Sciences at Benedictine College. His research interests include the psychology of morality, the victim role, and other related phenomena.
+J. Dean Elmore is an Associate Professor in the Department of Psychological Sciences at Benedictine College. His research interests include the psychology of morality, the victim role, and other related phenomena.
 
 ### Jerome A. Lewis
 
-Jerome A. Lewis is an Associate Professor in the Department of Psychology at Bellevue University. His research interests include the psychology of morality, the victim role, and reactions to victims.
+[Jerome A. Lewis](https://www.researchgate.net/profile/Jerome-Lewis-3) is an Associate Professor in the Department of Psychology at Bellevue University. His research interests include the psychology of morality, the victim role, and reactions to victims.
 
 ### Zachary M. Himmelberger
 
-Zachary M. Himmelberger is a Lead Data Science Manager at Motivate Lab. His research interests include disability studies and statistical modeling in the psychological sciences.
+[Zachary M. Himmelberger](https://www.researchgate.net/profile/Zachary-Himmelberger) is the Lead Data Science Manager at Motivate Lab. His research interests include disability studies and statistical modeling in the psychological and educational sciences.
 
 ### Jefferson Sherwood
 
